@@ -3,7 +3,9 @@ Landing page for upcoming circus arts academy.
 
 **Link to project:** https://lecirqueartstucson.netlify.app/
 
-![Landing page for circus arts academy](https://ibb.co/BfMQ6DX)
+![Landing page for circus arts academy](../circus-school/images/circus-school.png)
+
+![Landing page in action](../circus-school/images/circus-school-240.gif)
 
 ## How It's Made:
 
